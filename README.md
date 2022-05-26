@@ -1,2 +1,4 @@
 # calculate-a-daily-rate
-This is a exemple
+** calculate-a-daily-rate **
+- This is a exemple
+1.
