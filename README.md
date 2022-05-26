@@ -1,4 +1,4 @@
-# Trabalho Prático Módulo 1: Identificar os o custo da diário por número de pessoas, para o hostel **Pan Paraíso**.
+# Trabalho Prático: Identificar os o custo da diário por número de pessoas.
 <div align="center"> <a href="#Sobre">Sobre</a> • <a href="#Tecnologias-e-bibliotecas">Tecnologias e bibliotecas</a> • <a href="#Dataset">Dataset</a> </div>
   
 
